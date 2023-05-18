@@ -26,7 +26,7 @@ Il sito che ho realizzato è principalmente statico. Nella parte iniziale della 
 <img src="doc/nav.png" width="600">
 
 <br>
- Di seguito si trova l'archivio, suddiviso in tre macro categorie, contenente immagini, titolo, e descrizione di ogni specifico guanto. Troviamo un link "scopri di più" con il quale è possibile approfondire la storia del singolo oggetto e altre informazioni.
+ Di seguito si trova l'archivio, suddiviso in tre macro categorie, contenente immagini, titolo, e descrizione di ogni specifico guanto. Troviamo un link "scopri di più" con il quale è possibile approfondire la storia del singolo oggetto e altre informazioni. <br>
 <br>
 
 <img src="doc/archivio.png" width="600">
