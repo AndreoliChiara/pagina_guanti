@@ -39,7 +39,7 @@ Nella parte inferiore della pagina è presente il footer riportante i siti da cu
 ## Tecnologia usata
 Il sito è stato realizzato tramite il codice HTML e CSS.
 Nell'HTML ho inserito tutti gli elementi, utilizzando i classici tag come "h1" per i titoli, "p" per i paragrafi e via dicendo, mentre con il CSS ho potuto modificarli in base alle mie esigenze.
-Per la suddivisione in colonne ho utilizzato il tag CSS "display: grid", così da mantenere spazio ai lati del titolo e del testo. <br>
+Per la suddivisione in colonne ho utilizzato il tag CSS "display: grid", così da mantenere spazio ai lati del titolo e del testo. <br> <br>
 <img src="doc/griglia.png" width="600">
 
 
