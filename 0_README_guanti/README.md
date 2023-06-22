@@ -4,7 +4,7 @@ Docenti: A. Gysin, G. Profeta
 
 Elaborato 2: Antologia a due mani  
 
-# I guanti: un accessorio con origini antiche
+# I guanti: accessorio dalle origini antiche
 Autore: Chiara Andreoli  
 [Sito Web Guanti](https://andreolichiara.github.io/pagina_guanti/)
 
@@ -21,12 +21,20 @@ https://www.moussemagazine.it/
 
 
 ## Design dell’interfraccia e modalià di interazione
-Il sito che ho realizzato è principalmente statico. Nella parte iniziale della pagina è presente la barra di navigazione, con i titoli delle sezioni che si troveranno successivamente. In questo caso, schiacciando la categoria desiderata, il sito scorrerà alla parte corrispondente.  <br>
+Il sito che ho realizzato è principalmente statico. Nella parte iniziale della pagina è presente la barra di navigazione, con i titoli delle due pagine che ho realizzato sulla sinistra, mentre sulla destra troviamo l'indice. 
+<br>
 
 <img src="doc/nav.png" width="600">
 
 <br>
- Di seguito si trova l'archivio, suddiviso in tre macro categorie, contenente immagini, titolo, e descrizione di ogni specifico guanto. Troviamo un link "scopri di più" con il quale è possibile approfondire la storia del singolo oggetto e altre informazioni. <br>
+Nella Home page è possibile trovare la parte testuale del sito. Ho deciso di dividere il contenuto in diverse sezioni, così da facilitare la lettura.
+Ho iniziato parlando delle origini del guanto, per poi trattare "Il significato negativo dei guanti", "I guanti nella moda" e "L'evoluzione dei guanti nel lavoro".
+<br>
+
+<img src="doc/home.png" width="600">
+
+
+Nella seconda pagina si trova l'archivio, suddiviso in tre macro categorie, contenente immagini, titolo, e descrizione di ogni specifico guanto attraverso un elenco. Troviamo un link "scopri di più" con il quale è possibile approfondire la storia del singolo oggetto e altre informazioni. <br>
 <br>
 
 <img src="doc/archivio.png" width="600">
