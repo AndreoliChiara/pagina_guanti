@@ -30,6 +30,7 @@ Il sito che ho realizzato è principalmente statico. Nella parte iniziale della 
 Nella Home page è possibile trovare la parte testuale del sito. Ho deciso di dividere il contenuto in diverse sezioni, così da facilitare la lettura.
 Ho iniziato parlando delle origini del guanto, per poi trattare "Il significato negativo dei guanti", "I guanti nella moda" e "L'evoluzione dei guanti nel lavoro".
 <br>
+<br>
 
 <img src="doc/home.png" width="600">
 
